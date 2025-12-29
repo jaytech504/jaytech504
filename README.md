@@ -7,9 +7,13 @@ I'm a full-stack developer from Nigeria passionate about building useful, scalab
 🛠 Tech Stack
 
 Languages: Python, JavaScript, TypeScript
+
 Frameworks: Django, FastAPI, React, Next.js
+
 AI/ML: LLM integrations, HuggingFace, vector embeddings
+
 DevOps: Render, PythonAnywhere, Git & GitHub
+
 Tools: Postgres, Redis, Celery, Tailwind, Resend, Docker
 
 
