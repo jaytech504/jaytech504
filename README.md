@@ -52,14 +52,6 @@ Final-year Computer Engineering student building AI-powered products end to end 
 
 ---
 
-### 🚀 Featured Projects
-
-**[PatchFlow](https://github.com/jaytech504)** — A six-agent autonomous API failure-injection and self-healing platform. Built with FastAPI, Next.js, PostgreSQL, and Qwen-Plus, featuring a Fix → Review → Fix loop, WebSocket streaming, GitHub OAuth, and 18 real-world failure modes. Deployed end to end on Alibaba Cloud.
-
-**Taskfleet AI** — An AI-powered GitHub PR review platform built for a client, with JWT auth, GitHub App webhook integration, an OpenAI-powered review pipeline, risk scoring, and CI/CD via GitHub Actions.
-
----
-
 ### 🌱 Currently Focused On
 
 - Multi-agent LLM system design and orchestration
@@ -75,7 +67,7 @@ Open to collaborations, freelance work, and interesting technical conversations.
 
 <p align="left">
   <a href="mailto:jasonyakubu543@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jason-yakubu-5a770a21b/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jason-yakubu-5a770a21b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/jason_yakubu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
