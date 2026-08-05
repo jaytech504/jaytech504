@@ -1,161 +1,86 @@
-<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Jason Yakubu</h1>
+<h3 align="center">Full-Stack Developer | AI Engineer | Building multi-agent systems and production-grade SaaS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Jason+Yakubu;Full-Stack+Software+Engineer;AI+Engineer;Building+Intelligent+Software" alt="Typing SVG" />
+Final-year Computer Engineering student building AI-powered products end to end — from FastAPI backends and Next.js frontends to autonomous multi-agent pipelines. I take ideas from concept to production, with a focus on clean architecture and shipping fast.
 </p>
 
-<h3 align="center">
-Building scalable web applications, AI-powered products, and developer tools.
-</h3>
-
 <p align="center">
-  <a href="https://jaylio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jason-yakubu-5a770a21b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/jason_yakubu">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/jaytech504?tab=followers">
+    <img src="https://img.shields.io/github/followers/jaytech504?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaytech504&style=flat-square&color=blue" />
-</p>
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**AI / LLM Engineering**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/Multi--Agent_Pipelines-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## About Me
+### 🚀 Featured Projects
 
-```yaml
-name: Jason Yakubu
+**[PatchFlow](https://github.com/jaytech504)** — A six-agent autonomous API failure-injection and self-healing platform. Built with FastAPI, Next.js, PostgreSQL, and Qwen-Plus, featuring a Fix → Review → Fix loop, WebSocket streaming, GitHub OAuth, and 18 real-world failure modes. Deployed end to end on Alibaba Cloud.
 
-location: Nigeria
-
-role:
-  - Full-Stack Software Engineer
-  - AI Engineer
-
-currently_building:
-  - AI-powered SaaS Applications
-  - Intelligent Developer Tools
-  - Automation Workflows
-
-currently_learning:
-  - Machine Learning
-  - AI Agents
-  - Distributed Systems
-  - Cloud Infrastructure
-
-interests:
-  - Software Architecture
-  - Backend Engineering
-  - Artificial Intelligence
-  - Developer Experience
-
-looking_for:
-  - Remote Opportunities
-  - Freelance Projects
-  - Open Source Collaboration
-```
+**Taskfleet AI** — An AI-powered GitHub PR review platform built for a client, with JWT auth, GitHub App webhook integration, an OpenAI-powered review pipeline, risk scoring, and CI/CD via GitHub Actions.
 
 ---
 
-## Tech Stack
+### 🌱 Currently Focused On
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,nestjs"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,redis"/>
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
-</p>
-
-### AI & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qwen-7A3EF0?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
-</p>
+- Multi-agent LLM system design and orchestration
+- Software architecture & scalability for production SaaS
+- AI evaluation and model-behavior benchmarking
+- IoT + AI/ML integration (precision agriculture, sensor pipelines)
 
 ---
 
-## Current Focus
+### 📬 Reach Me
 
-```text
-• Building production-ready AI applications
+Open to collaborations, freelance work, and interesting technical conversations.
 
-• Creating intelligent automation tools
-
-• Developing scalable backend systems
-
-• Learning modern Machine Learning techniques
-
-• Exploring AI agents and multi-agent workflows
-```
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaytech504&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaytech504&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaytech504&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaytech504&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaytech504/jaytech504/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<p align="left">
+  <a href="mailto:jasonyakubu543@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jason-yakubu-5a770a21b/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/jason_yakubu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Building software that combines solid engineering with the power of AI.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaytech504&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
